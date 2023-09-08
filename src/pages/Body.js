@@ -2,7 +2,7 @@
 import { Navbar } from "../components/Navbar";
 import { Footer } from "../components/Footer";
 // import React, { useEffect, useState } from "react";
-import "animate.css/animate.min.css";
+
 
 // importing components
 
