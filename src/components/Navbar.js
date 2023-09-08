@@ -18,9 +18,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${isMobileNavOpen ? "responsive" : ""}`}>
       <div className="logo">
-        <a href="/#">
-          <img className="nav-logo" src={logo} alt="Logo" />
-        </a>
+        <img className="nav-logo" src={logo} alt="Logo" />
       </div>
       <a
         href="/#"

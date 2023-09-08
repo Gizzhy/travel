@@ -10,7 +10,7 @@
   font-family: "Poppins", sans-serif !important;
 }
 .nav-logo {
-  width: 70%;
+  width: 90%;
 }
 /* Basic CSS for the navbar */
 .navbar {
@@ -30,7 +30,8 @@
 
 .navbar a:hover {
   background-color: #df6951;
-  color: black;
+  color: white;
+  border-radius: 7px;
 }
 
 /* CSS for the collapsible menu in mobile view */
