@@ -1,8 +1,7 @@
 // importing components
-import { Navbar } from "../components/Navbar";
+import Navbar from "../components/Navbar";
 import { Footer } from "../components/Footer";
 // import React, { useEffect, useState } from "react";
-
 
 // importing components
 
@@ -138,7 +137,7 @@ const Body = () => {
         </div>
       </div>
       <div className="container favourite" data-aos="slide-up">
-        <div className="" >
+        <div className="">
           <span className="category">Fast & Easy</span>
           <br />
           <span className="offer">Get Your Favourite Resort Bookings</span>

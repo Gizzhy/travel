@@ -194,6 +194,11 @@
   .blur-a0 {
     display: none;
   }
+  .partner-img {
+    width: 30%;
+    padding-top: 18px;
+    padding-right: 0px;
+  }
 }
 /* next */
 /* next */
@@ -217,6 +222,7 @@
   .partner-img {
     width: 30%;
     padding-top: 18px;
+    padding-right: 0px;
   }
 
   .honey1 {
@@ -249,7 +255,6 @@
     /* margin: 19vh 0 0 12vw; */
   }
   .no-matter {
-    
     font-weight: 700;
     font-size: 25px;
   }
